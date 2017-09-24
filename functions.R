@@ -69,8 +69,6 @@ min_day_inflammation <- apply(dat, 2, min)
 analyze <- function(filename){
   dat <- read.csv(filename, header = F)
   avg_day_inflammation <- apply(dat, 2, mean)
+  plot(avg_day_inflammation)
 }
-
-
-
 
