@@ -1,0 +1,6 @@
+  0 ./data/writing/committee_meeting/career.md
+  0 ./data/writing/committee_meeting/future_direction.md
+  0 ./data/writing/committee_meeting/possible_pitfalls.md
+  5 ./data/writing/committee_meeting/pres_notes.md
+  4 ./README.md
+  9 total
